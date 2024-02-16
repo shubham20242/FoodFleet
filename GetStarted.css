@@ -1,0 +1,57 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+.GetStarted{
+    height: 852px;
+    Width: 393px;
+    background-color: red;
+    border-radius: 40px;
+    position: relative;
+}
+
+#Burger{
+
+    height: 400px;
+    width: 393px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+.Content{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    font-size: 50px; 
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 105px;
+}
+
+#Get_Started_button{
+  height: 50px;
+  width: 200px;
+  border-radius: 40px;
+  font-weight: bold;
+  font-size: 20px; 
+  margin-top: 80px;
+  margin-left: 90px;
+
+}
+.Rectangles{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 108px;
+}
+
+
+#oneRec,#secondRec,#thirdRec,#fourthRec{
+    height:5px;
+    width:30px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
