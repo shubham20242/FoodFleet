@@ -9,6 +9,8 @@ Link: https://www.figma.com/file/MvwIeVji0u3yoTV69P35xg/FoodFleet?type=design&no
 
 # ERD
 
+![alt text](image-2.png)
+
 # MVP 
 A food delivery app with 6 cusine and a 2 restaurants with 3 food each.
 The user is able to select either from delivery or Dine In
