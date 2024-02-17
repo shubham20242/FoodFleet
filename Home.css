@@ -93,7 +93,6 @@ p{
     height: 130px;
     width: 150px;
     margin: 10px;
-    /* border: 0.5px solid; */
 }
 #photo_id{
     height: 110px;
@@ -103,10 +102,21 @@ p{
 #photo_id_1{
     height: 80px;
     width: 80px;
-    margin-left: 30px;
+    margin-left: 35px;
+    margin-top: 10px;
    
 }
 figcaption{
     display: flex;
     justify-content: center;
+}
+
+#Delivery{
+    border-radius: 150px;
+    /* background-color: rgb(216, 125, 137); */
+    background-color: rgb(209, 117, 117)
+}
+
+#Dine_In{
+    border-radius: 150px;
 }
